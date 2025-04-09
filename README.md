@@ -1,4 +1,5 @@
 [![rebol-PBKDF2](https://github.com/user-attachments/assets/0532b0ce-ebd9-49a2-b59e-c304615bbde6)](#)
+[![Rebol-PBKDF2 CI](https://github.com/Oldes/Rebol-PBKDF2/actions/workflows/main.yml/badge.svg)](https://github.com/Oldes/Rebol-PBKDF2/actions/workflows/main.yml)
 
 Rebol-PBKDF2
 =============
